@@ -1,2 +1,2 @@
 # Flowlinc
-Industrial Automation controller based on ESP32
+IoT Edge Device | IoT based Industrial Automation controller powered by ESP32
